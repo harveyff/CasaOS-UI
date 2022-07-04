@@ -2,7 +2,7 @@
  * @Author: Jerryk jerry@icewhale.org
  * @Date: 2022-02-18 10:20:10
  * @LastEditors: Jerryk jerry@icewhale.org
- * @LastEditTime: 2022-06-22 13:48:24
+ * @LastEditTime: 2022-07-04 19:15:06
  * @FilePath: /CasaOS-UI/vue.config.js
  * @Description: 
  * 
@@ -49,8 +49,8 @@ module.exports = {
         // 
         if (process.env.NODE_ENV === "prod") {
             config.optimization.minimize(true);
-            // config.plugin('webpack-bundle-analyzer')
-            //     .use(require('webpack-bundle-analyzer').BundleAnalyzerPlugin)
+            config.plugin('webpack-bundle-analyzer')
+                .use(require('webpack-bundle-analyzer').BundleAnalyzerPlugin)
             config.optimization.splitChunks({
                 chunks: 'all'
             })
