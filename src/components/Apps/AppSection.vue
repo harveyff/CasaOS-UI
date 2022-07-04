@@ -2,7 +2,7 @@
  * @Author: Jerryk jerry@icewhale.org
  * @Date: 2022-02-18 10:20:10
  * @LastEditors: Jerryk jerry@icewhale.org
- * @LastEditTime: 2022-07-04 18:17:15
+ * @LastEditTime: 2022-07-04 19:04:27
  * @FilePath: /CasaOS-UI/src/components/Apps/AppSection.vue
  * @Description: 
  * 
@@ -77,14 +77,6 @@ const builtInApplications = [
     icon: require(`@/assets/img/app/files.svg`),
     state: "0",
     custom_id: "2",
-    type: "system"
-  },
-  {
-    id: "3",
-    name: "Connect",
-    icon: require(`@/assets/img/share/folder-publicshare.svg`),
-    state: "0",
-    custom_id: "3",
     type: "system"
   },
 ]

@@ -2,9 +2,9 @@
  * @Author: JerryK
  * @Date: 2021-09-18 21:32:13
  * @LastEditors: Jerryk jerry@icewhale.org
- * @LastEditTime: 2022-06-30 15:58:09
+ * @LastEditTime: 2022-07-04 19:04:40
  * @Description: App Card item
- * @FilePath: \CasaOS-UI\src\components\Apps\AppCard.vue
+ * @FilePath: /CasaOS-UI/src/components/Apps/AppCard.vue
 -->
 
 <template>
@@ -156,11 +156,6 @@ export default {
           break;
         case "Files":
           this.homeShowFiles()
-          break;
-        case "Connect":
-          var url = `${window.location.origin}/ui/#/connect`
-          var arg = '\u003cscript\u003elocation.replace("' + url + '")\u003c/script\u003e';
-          window.open('javascript:window.name;', arg);
           break;
         default:
           break;

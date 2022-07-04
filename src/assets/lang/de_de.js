@@ -21,6 +21,7 @@ export default {
     "Medium": "Mittel",
     "High": "Hoch",
     "Language": "Sprache",
+    "Change": "Ändern",
 
     "This field is required": "Dieses Feld ist erforderlich",
     "This field must be a valid email": "Dieses Feld beinhaltet keine gültige E-Mail-Adresse",
@@ -307,114 +308,4 @@ export default {
     "Save failed, please try again!": "Save failed, please try again!",
     "Upload failed, please try again!": "Upload failed, please try again!",
 
-    /* ******************************
-    * Share Section
-    ********************************/
-    "Share module name": "CasaConnect",
-    // Main
-    "More info": "Weitere Infos",
-    "Edit Info": "Infos ändern",
-    "Copy My Share ID": "Kopiere meine Share ID",
-    "Add Friend": "Freund hinzufügen",
-    "Friends": "Freunde",
-    "Downloads": "Downloads",
-    "Notification": "Benachrichtigung",
-    "Upload not supported!": "Upload nicht unterstützt!",
-    "Select a friend to view his share.": "Wähle einen Freund, um dessen Share anzusehen.",
-    "There are no files in the current folder.": "Im aktuellen Verzeichnis sind keine Dateien.",
-    "has been copied to the clipboard": "wurde in die Zwischenablage kopiert",
-    "is offline": "ist offline",
-    "Home": "Home",
-    "Forward": "Weiterleiten",
-    // User Context
-    "Edit remark": "Bemerkung ändern",
-    "Unblock this friend": "Freund entblocken",
-    "Block this friend": "Freund blocken",
-    "Delete friend": "Freund löschen",
-    "Blocked this friend": "Freund wurde geblockt",
-    "Unblocked this friend": "Freund wurde entblockt",
-    "Blocked failed": "Blocken fehlgeschlagen",
-    "Deleted this friend": "Freund löschen",
-    "Delete failed": "Löschen fehlgeschlagen",
-    "Copy friend's ID": "Copy friend's ID",
-
-    // Tour
-    "Skip": "Überspringen",
-    "Prev": "Vorheriges",
-    "Let's Go": "Los gehts",
-    "Here is your avatar, where you can change your personal information and get your ID to share with your friends.": "Hier ist dein Avatar, wo du deine persönlichen Informationen ändern kannst und deine ID zum Weitergeben an deine Freunde findest.",
-    "Click \"+\" and enter your friend's ID to send a friend request.": "Klicke auf das \"+\" und trag die ID deines Freundes ein, um eine Freundschaftsanfrage zu schicken.",
-    "Browse your download progress and download history here.": "Den Download-Fortschritt und deine Download-Historie findest du hier.",
-    "Modify your shared folders, and default download path here.": "Ändere deine geteilten Verzeichnisse und deinen Standard-Download-Pfad hier.",
-    "Well, let's start using it!": "Los gehts",
-
-    // Download List
-    "Downloading": "Downloade",
-    "D-Completed": "Vollständig",
-    "D-Total": "Gesamt",
-    "D-Name": "Name",
-    "D-Size": "Größe",
-    "D-Progress": "Fortschritt",
-    "D-Retry": "Neustarten",
-    "Cancel Download": "Download abbrechen",
-    "Delete this record": "Eintrag löschen",
-    "Finishing": "Fertigstellen",
-    "Error": "Error",
-    "Download was cancelled": "Download wurde abgebrochen",
-    "Cancel download failed": "Download abbrechen fehlgeschlagen",
-    "Record deleted": "Eintrag gelöscht",
-    "Delete record failed": "Eintrag löschen fehlgeschlagen",
-
-
-    // Init Modal
-
-    "Share Initialization Wizard": "Share Initialization Wizard",
-    "Welcome to CasaConnect": "Willkommen zu CasaConnect",
-    "With this feature you can easily create peer-to-peer file sharing transfers between you and your friends.": "Mit diesem Feature kannst du ganz einfach Peer-to-Peer-Filesharing mit deinen Freunden nutzen.",
-    "You need to do some simple setup.": "Einige einfache Schritte sind zur Einrichtung erforderlich.",
-    "Let's Start": "Los gehts",
-    "Share-Account": "Account",
-    "Share-Setting": "Einstellung",
-    "Share-Recommend": "Empfehlen",
-    "Share-Finish": "Fertigstellen",
-    "Nickname": "Nickname",
-    "Please enter your nickname.": "Trag deinen Nickname ein.",
-    "Description": "Beschreibung",
-    "Please enter your Description.": "Bitte gib deine Beschreibung ein.",
-    "Shared folders": "Geteilte Verzeichnisse",
-    "Default download path": "Standard-Download-Pfad",
-    "Need to add at least one directory.": "Du benötigst mindestens ein Verzeichnis.",
-    "Change": "Ändern",
-    "We have prepared some public servers.": "Wir haben einige öffentliche Server für dich vorbereitet.",
-    "You need to choose one of them to start with.": "Zum Starten musst du dir einen aussuchen.",
-    "At least one must be selected.": "Mindestens einer muss ausgewählt werden.",
-    "Share is ready!": "Share ist fertig!",
-    "You have completed the initial setup.": "Du hast die Einrichtung abgeschlossen.",
-    "Next you can follow the use guide to learn how to use it.": "In der Anleitung kannst du nachlesen, wie du es benutzt.",
-    "Share-Go": "Los",
-
-    // Add Friend Modal
-    "Send Friend Request": "Freundschaftsanfrage senden",
-    "Friend's ID": "ID deines Freundes",
-    "Please enter friend's Share ID.": "Gib die ID des Shares deines Freundes ein.",
-    "Friend Request Sent.": "Freundschaftsanfrage gesendet.",
-    "is already your friend.": "ist schon dein Freund.",
-
-    // Download Modal
-    "Download to": "{file} downloaden nach",
-    "Download path": "Download-Pfad",
-    "Set as default download path": "Als Standard-Download-Pfad setzen",
-    "Download has started": "Download gestartet",
-    "Download failed": "Download fehlgeschlagen",
-
-    // Remark Modal
-    "Please enter the remark.": "Bitte trag die Bemerkung ein.",
-    "Remark saved": "Bemerkung gespeichert",
-    "Remark save failed": "Bemerkung speichern fehlgeschlagen",
-
-    // Profile Modal 
-    "Edit My Info": "Meine Info verändern",
-    "My ID": "Meine ID",
-    "Update successful": "Update erfolgreich",
-    "Update failed": "Update fehlgeschlagen",
 }
