@@ -56,8 +56,8 @@ export default {
     "Confirm the new password again": "确认新密码",
 
     // Dashboard Settings
-    "Settings": "系统设置",
-    "Dashboard Setting": "系统设置",
+    "Settings": "系统设置111",
+    "Dashboard Setting": "系统设置222",
     "Search Engine": "搜索引擎",
     "WebUI Port": "网页界面端口",
     "Currently the latest version": "当前已经是最新版",
@@ -86,7 +86,7 @@ export default {
     "available of": "{avl}可用（共{total}）",
 
     // Search 
-    "Search...": "搜索...",
+    "Search...": "搜索...这里是测试",
 
     // Sync
     "Sync your data": "同步你的数据",
@@ -129,10 +129,10 @@ export default {
     "Have an idea? Shoot it on Discord!": "有想法？在 Discord 上告诉我们！",
     "Smarten up your home": "智能化你的家庭",
     "We want to give you a smart home experience with privacy, high speed, and localized storage.": "我们希望为你提供隐私、高速和本地化存储的智能家居体验。",
-    "In development": "正在开发中",
+    "In development": "正在开发中,测试..........",
 
     // Apps
-    "Apps": "Apps",
+    "Apps": "Apps测试",
     "App": "App",
     "Open": "打开",
     "Setting": "设置",

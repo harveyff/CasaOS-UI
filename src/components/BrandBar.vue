@@ -12,8 +12,8 @@
     <figure class="image is-24x24">
       <img :src="require('@/assets/img/logo/casa-white.svg')">
     </figure>
-    <span class="logo-text mr-3 ml-1">CasaOS</span>
-    <span class="intro-text">Made with ❤️ by IceWhale and YOU!</span>
+    <span class="logo-text mr-3 ml-1">Test</span>
+    <span class="intro-text">------Harvey------</span>
   </div>
 </template>
 
