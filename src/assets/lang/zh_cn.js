@@ -30,8 +30,8 @@ export default {
     "You entered an invalid RFC1123 hostname": "你输入的不是一个有效的RFC1123主机名",
 
     // Init Page
-    "Welcome to CasaOS": "欢迎进入CasaOS",
-    "Let's create your initial account": "让我们来创建你的初始账户",
+    "Welcome to CasaOS": "测试标题111",
+    "Let's create your initial account": "测试内容222",
     "Go →": "开始 →",
     "Create Account": "创建账户",
     "Username": "用户名",
