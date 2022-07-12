@@ -6,7 +6,6 @@
  * @Description: The left bottom brand bar
  * @FilePath: /CasaOS-UI/src/components/BrandBar.vue
 -->
-
 <template>
   <div class="brand-bar is-flex is-align-items-center has-text-white">
     <figure class="image is-24x24">
